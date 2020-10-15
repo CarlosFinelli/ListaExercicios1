@@ -1,0 +1,12 @@
+C:\Users\Olimpiadas\Desktop\Lista de exercícios 1\Questão 6\Questão6\Questão6\bin\Debug\netcoreapp3.1\Questão6.exe
+C:\Users\Olimpiadas\Desktop\Lista de exercícios 1\Questão 6\Questão6\Questão6\bin\Debug\netcoreapp3.1\Questão6.deps.json
+C:\Users\Olimpiadas\Desktop\Lista de exercícios 1\Questão 6\Questão6\Questão6\bin\Debug\netcoreapp3.1\Questão6.runtimeconfig.json
+C:\Users\Olimpiadas\Desktop\Lista de exercícios 1\Questão 6\Questão6\Questão6\bin\Debug\netcoreapp3.1\Questão6.runtimeconfig.dev.json
+C:\Users\Olimpiadas\Desktop\Lista de exercícios 1\Questão 6\Questão6\Questão6\bin\Debug\netcoreapp3.1\Questão6.dll
+C:\Users\Olimpiadas\Desktop\Lista de exercícios 1\Questão 6\Questão6\Questão6\bin\Debug\netcoreapp3.1\Questão6.pdb
+C:\Users\Olimpiadas\Desktop\Lista de exercícios 1\Questão 6\Questão6\Questão6\obj\Debug\netcoreapp3.1\Questão6.AssemblyInfoInputs.cache
+C:\Users\Olimpiadas\Desktop\Lista de exercícios 1\Questão 6\Questão6\Questão6\obj\Debug\netcoreapp3.1\Questão6.AssemblyInfo.cs
+C:\Users\Olimpiadas\Desktop\Lista de exercícios 1\Questão 6\Questão6\Questão6\obj\Debug\netcoreapp3.1\Questão6.csproj.CoreCompileInputs.cache
+C:\Users\Olimpiadas\Desktop\Lista de exercícios 1\Questão 6\Questão6\Questão6\obj\Debug\netcoreapp3.1\Questão6.dll
+C:\Users\Olimpiadas\Desktop\Lista de exercícios 1\Questão 6\Questão6\Questão6\obj\Debug\netcoreapp3.1\Questão6.pdb
+C:\Users\Olimpiadas\Desktop\Lista de exercícios 1\Questão 6\Questão6\Questão6\obj\Debug\netcoreapp3.1\Questão6.genruntimeconfig.cache
