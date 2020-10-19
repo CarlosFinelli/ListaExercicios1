@@ -13,8 +13,7 @@ namespace Questao12
             Console.Write("Por favor, insira a velocidade do motorista: ");
             fiscalizacao.velocidadeMotorista = Convert.ToInt16(Console.ReadLine());
             Console.Clear();
-            fiscalizacao.ValorMulta();
-            Console.WriteLine(fiscalizacao.retorno);
+            Console.WriteLine(fiscalizacao.ValorMulta());
         }
     }
 }
