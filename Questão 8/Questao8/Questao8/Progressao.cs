@@ -7,13 +7,12 @@ namespace Questao8
     class Progressao
     {
         public int R, X, Y;
+        private int Result = 0;
 
-        public void Soma()
+        public int Soma()
         {
-            for (int i = 0; i < Y; i++)
-            {
-                X += R;
-            }
+            Result = ((X + Y) * R) / 2;
+            return Result;
         }
     }
 }
