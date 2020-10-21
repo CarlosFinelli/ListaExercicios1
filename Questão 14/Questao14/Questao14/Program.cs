@@ -13,7 +13,6 @@ namespace Questao14
             Console.Write("Insira o segundo valor: ");
             calc.B = Convert.ToInt16(Console.ReadLine());
             Console.Clear();
-            Console.WriteLine("");
             Console.WriteLine($"O resultado da divisão entre {calc.A} e {calc.B} é igual a: {calc.Divisao()}");
         }
     }
