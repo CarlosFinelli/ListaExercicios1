@@ -18,6 +18,7 @@ namespace Questao7
             Console.Clear();
             numero.Maior();
             Console.WriteLine(numero.resultado);
+            Console.ReadKey();
         }
     }
 }

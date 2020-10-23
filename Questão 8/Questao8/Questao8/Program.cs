@@ -18,6 +18,7 @@ namespace Questao8
             Console.Clear();
             progressao.Soma();
             Console.WriteLine($"A soma de todos os itens da progressão é igual a: {progressao.Soma()}");
+            Console.ReadKey();
         }
     }
 }

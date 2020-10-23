@@ -14,9 +14,8 @@ namespace Questao10
             numero.B = Convert.ToInt16(Console.ReadLine());
             Console.Clear();
             numero.VerificaMaior();
-            {
-                Console.WriteLine(numero.resultado);
-            }
+            Console.WriteLine(numero.resultado);
+            Console.ReadKey();
         }
     }
 }

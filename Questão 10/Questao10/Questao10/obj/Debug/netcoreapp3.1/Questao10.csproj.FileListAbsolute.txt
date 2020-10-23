@@ -10,3 +10,4 @@ C:\Users\Olimpiadas\Desktop\Lista de exercícios 1\Questão 10\Questao10\Questao
 C:\Users\Olimpiadas\Desktop\Lista de exercícios 1\Questão 10\Questao10\Questao10\obj\Debug\netcoreapp3.1\Questao10.dll
 C:\Users\Olimpiadas\Desktop\Lista de exercícios 1\Questão 10\Questao10\Questao10\obj\Debug\netcoreapp3.1\Questao10.pdb
 C:\Users\Olimpiadas\Desktop\Lista de exercícios 1\Questão 10\Questao10\Questao10\obj\Debug\netcoreapp3.1\Questao10.genruntimeconfig.cache
+C:\Users\Olimpiadas\Desktop\Lista de exercícios 1\Questão 10\Questao10\Questao10\obj\Debug\netcoreapp3.1\Questao10.csprojAssemblyReference.cache

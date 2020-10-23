@@ -6,10 +6,6 @@ namespace Questao3
     {
         static void Main(string[] args)
         {
-            // Questão 3
-            Console.WriteLine("Questão 3");
-            Console.WriteLine("");
-            Console.WriteLine("");
             Gastos gastos = new Gastos();
             Console.Write("Insira o número de anos que você fuma: ");
             gastos.anos = Convert.ToInt16(Console.ReadLine());
@@ -22,6 +18,7 @@ namespace Questao3
             Console.Clear();
             gastos.GastoTotal();
             Console.WriteLine($"Até hoje você já gastou: {gastos.resultado} com cigarros.");
+            Console.ReadKey();
         }
     }
 }

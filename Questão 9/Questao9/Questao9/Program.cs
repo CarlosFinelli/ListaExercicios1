@@ -12,7 +12,7 @@ namespace Questao9
             Console.Clear();
             nome.ConfereNome();
             Console.WriteLine(nome.resultado);
-            
+            Console.ReadKey();
         }
     }
 }

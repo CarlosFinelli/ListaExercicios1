@@ -22,6 +22,7 @@ namespace Questão6
             Console.WriteLine($"O produto entre {calculadora.num1}, {calculadora.num2} e {calculadora.num3} é igual a: {calculadora.resultado}");
             calculadora.Divisao();
             Console.WriteLine($"O Quociente entre {calculadora.num1}, {calculadora.num2} e {calculadora.num3} é igual a: {calculadora.resultado}");
+            Console.ReadKey();
         }
     }
 }

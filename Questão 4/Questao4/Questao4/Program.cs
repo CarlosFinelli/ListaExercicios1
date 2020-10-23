@@ -21,9 +21,7 @@ namespace Questao4
             Console.WriteLine("");
             Console.WriteLine($"O quociente da divisão entre {calculadora.B} e {calculadora.A} é: {calculadora.quociente2}");
             Console.WriteLine($"O resto da divisão entre {calculadora.B} e {calculadora.A} é: {calculadora.resto2}");
-            Console.WriteLine("");
-            Console.WriteLine("");
-
+            Console.ReadKey();
         }
     }
 }

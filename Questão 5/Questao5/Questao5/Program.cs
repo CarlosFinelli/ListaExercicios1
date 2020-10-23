@@ -15,6 +15,7 @@ namespace Questao5
             Console.Clear();
             cilindro.AreaTotal();
             Console.WriteLine($"A área total é igual a: {cilindro.aTotal}");
+            Console.ReadKey();
         }
     }
 }

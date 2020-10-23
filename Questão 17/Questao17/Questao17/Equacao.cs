@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Questao16
+namespace Questao17
 {
     class Equacao
     {
