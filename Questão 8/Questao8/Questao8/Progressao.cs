@@ -11,7 +11,8 @@ namespace Questao8
 
         public int Soma()
         {
-            Result = ((X + Y) * R) / 2;
+            double D = X + ((Y - 1) * R);
+            double Result = (y * (X+D)) / 2;
             return Result;
         }
     }
