@@ -6,12 +6,18 @@ namespace Questao18
     {
         static void Main(string[] args)
         {
-            Latao latao = new Latao();
-            Console.Write("Insira a quantidade de latão que deseja: ");
-            latao.qtd = Convert.ToDouble(Console.ReadLine());
+            Triangulo triangulo = new Triangulo();
+            Console.Write("Insira o valor do lado A do triângulo: ");
+            triangulo.A = Convert.ToDouble(Console.ReadLine());
             Console.Clear();
-            latao.Total();
-            Console.WriteLine($"Para conseguir {latao.qtd} de latão, você precisará de {latao.cobre} de cobre e {latao.zinco} de zinco");
+            Console.Write("Insira o valor do lado B do triângulo: ");
+            triangulo.B = Convert.ToDouble(Console.ReadLine());
+            Console.Clear();
+            Console.Write("Insira o valor do lado C do triângulo: ");
+            triangulo.C = Convert.ToDouble(Console.ReadLine());
+            Console.Clear();
+            Console.WriteLine($"Os valores digitados pertencem a um triângulo: {triangulo.Tipo()}");
+            Console.ReadKey();
         }
     }
 }
